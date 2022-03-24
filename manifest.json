@@ -1,14 +1,13 @@
 {
-
   "manifest_version": 2,
   "name": "Give me Swisscows",
   "version": "1.3",
-  "author": "Jeroen Swen",
+  "author": "Chandler Bing",
 
   "description": "Adds a 'Swisscows' button to the DuckDuckGo search engine.",
 
   "icons": {
-    "96": "icons/icon-96.png"
+    "16": "icons/icon-16.png"
   },
 
   "content_scripts": [
