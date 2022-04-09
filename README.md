@@ -1,4 +1,4 @@
-# GiveMeSwisscows (DuckDuckCows)
+# CowsCowsGo
 Форк расширения [**DuckDuckGoogle**](https://addons.mozilla.org/ru/firefox/addon/duckduckgoogle/), который создан для развлечения и повышения приватности. 
 
 Добавляет вам кнопку **'Swisscows'**, которая перенаправит ваш запрос в их поисковик. 
